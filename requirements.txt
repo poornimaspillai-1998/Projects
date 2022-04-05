@@ -1,0 +1,27 @@
+alembic==1.7.7
+certifi==2020.6.20
+cffi==1.15.0
+click==8.1.2
+cryptography==36.0.2
+Flask==2.1.1
+Flask-Ext==0.1
+Flask-HTTPAuth==4.5.0
+Flask-Login==0.6.0
+Flask-Migrate==3.1.0
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.1
+greenlet==1.1.2
+itsdangerous==2.1.2
+Jinja2==3.1.1
+jwt==1.3.1
+Mako==1.2.0
+MarkupSafe==2.1.1
+numpy==1.22.3
+psycopg2 @ file:///home/builder/ci_310/psycopg2_1640792656405/work
+pycparser==2.21
+PyJWT==2.3.0
+python-dotenv==0.20.0
+SQLAlchemy==1.4.34
+transformations==2021.6.6
+Werkzeug==2.0.0
+WTForms==3.0.1
